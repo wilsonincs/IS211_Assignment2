@@ -1,7 +1,4 @@
-
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""IS211 Assignment2. Working with different modules."""
+__author__ = 'Willy Nguessan'
 
 import urllib2
 import csv
